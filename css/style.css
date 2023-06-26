@@ -1,0 +1,9 @@
+.main_banner {
+  background-image: url("../images/main_bg.jpg");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+/*# sourceMappingURL=style.css.map */
